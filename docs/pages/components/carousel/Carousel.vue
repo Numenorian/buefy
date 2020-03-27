@@ -20,7 +20,7 @@
         <p class="has-text-centered">Some source by <a href="https://picsum.photos/" target="_blank">Picsum</a> and Images from <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</p><br>
 
         <Example title="Custom Indicators" :component="ExCustomIndicator" :code="ExCustomIndicatorCode" paddingless>
-            When images more than 6 add <code>indicator-custom</code><br>
+            When using more than 6 images add <code>indicator-custom</code><br>
             If want custom indicator to stay big, use <code>is-medium</code> on <code>indicator-custom-size</code>
         </Example>
 
